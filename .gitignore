@@ -21,3 +21,4 @@ saved_models/
 logs/
 *.log
 wandb/
+.env
